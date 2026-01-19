@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.virtuoso.metronome",
+  "appName": "Virtuoso Metronome",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

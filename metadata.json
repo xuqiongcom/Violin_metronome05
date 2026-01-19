@@ -1,0 +1,7 @@
+{
+  "name": "Violin Master Metronome",
+  "description": "A professional-grade metronome designed for violinists, featuring precise timing, practice drones, and rhythmic subdivisions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "id": "com.virtuoso.violin.metronome",
+  "name": "Virtuoso Violin Metronome",
+  "short_name": "Virtuoso",
+  "description": "Professional-grade metronome and tuning drones for violinists with offline support.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "categories": ["music", "utilities"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3034/3034293.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3034/3034293.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
